@@ -19,8 +19,15 @@ aside {
     margin-top: 0px;
 }
 .hero-h3 {
-    text-shadow: 3px 2px 16px black;
+    text-shadow: unset;
+    color: black;
 }
 .hero-text {
     color: #f26e2e;
+}
+@media screen and (min-width: 768px) {
+    .hero-h3 {
+        color: white;
+        text-shadow: 3px 2px 16px black;
+    }
 }
