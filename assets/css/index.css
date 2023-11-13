@@ -1,5 +1,5 @@
 .hero-header {
-    background-image: url('../images/Layer626.png');
+    background-image: url('../images/Layer2.png');
     background-size: cover;
     z-index: 12;
 }
@@ -10,7 +10,7 @@
     background-color: #EEEEEE !important;
     /* gap: 1rem; */
     padding-top: 2rem;
-    padding-right: 2rem;
+    /* padding-right: 2rem; */
 }
 .hero-index {
     z-index: 1000;
@@ -20,12 +20,6 @@ aside {
 }
 .hero-h3 {
     text-shadow: 3px 2px 16px black;
-}
-.main-contain {
-    margin-top: -60px;
-}
-.first-contain {
-    margin-top: 100px;
 }
 .hero-text {
     color: #f26e2e;
