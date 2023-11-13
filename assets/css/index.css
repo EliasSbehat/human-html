@@ -1,0 +1,29 @@
+.hero-header {
+    background-image: url('../images/Layer626.png');
+    background-size: cover;
+    z-index: 12;
+}
+.hero-section {
+    background-color: #EEEEEE;
+}
+.hero-jumbotron {
+    background-color: #EEEEEE !important;
+    /* gap: 1rem; */
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
+.hero-index {
+    z-index: 1000;
+}
+aside {
+    margin-top: 0px;
+}
+.hero-h3 {
+    text-shadow: 3px 2px 16px black;
+}
+.main-contain {
+    margin-top: -60px;
+}
+.first-contain {
+    margin-top: 100px;
+}

@@ -1,0 +1,8 @@
+/* selection.json in this folder file contains the original Icomoon file, used that as the source to create this woff2 file */
+
+@font-face {
+    font-family: 'vpro-iconfont';
+    src: url('./fonts/vpro-iconfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

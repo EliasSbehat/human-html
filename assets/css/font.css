@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'bureaugrotesque';
+    src: url('./fonts/Bureau Grot Light.otf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bureaugrotesque-human';
+    src: url('./fonts/Bureau Grot Book.otf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
