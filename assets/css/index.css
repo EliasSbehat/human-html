@@ -7,6 +7,12 @@
     background-position: left;
     background-size: 100%;
 }
+.video-head {
+    width: 97%;
+    height: 75%; 
+    background: #f26e2e; 
+    float: right;
+}
 .site-logo {
     display: block;
 }
@@ -49,6 +55,9 @@ aside {
     }
     .footer-logo {
         text-align: end;
+    }
+    .video-head {
+        height: 100%; 
     }
     .second-contain {
         padding-left: 1rem;
