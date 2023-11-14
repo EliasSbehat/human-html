@@ -2,6 +2,11 @@
     background-size: cover;
     z-index: 12;
 }
+.logo-container {
+    background-image: url('../images/human_website-colors_v2.0.gif');
+    background-position: left;
+    background-size: 100%;
+}
 .site-logo {
     display: block;
 }
