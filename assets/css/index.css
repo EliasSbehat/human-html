@@ -25,9 +25,18 @@ aside {
 .hero-text {
     color: #f26e2e;
 }
+.second-contain {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
 @media screen and (min-width: 991px) {
     .hero-h3 {
         color: white;
         text-shadow: 3px 2px 16px black;
     }
+    .second-contain {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
 }
