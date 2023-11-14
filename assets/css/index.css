@@ -39,10 +39,16 @@ aside {
     padding-left: 3rem;
     padding-right: 3rem;
 }
+.footer-logo {
+    text-align: unset;
+}
 @media screen and (min-width: 991px) {
     .hero-h3 {
         color: white;
         text-shadow: 3px 2px 16px black;
+    }
+    .footer-logo {
+        text-align: end;
     }
     .second-contain {
         padding-left: 1rem;
