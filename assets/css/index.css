@@ -2,6 +2,12 @@
     background-size: cover;
     z-index: 12;
 }
+.site-logo {
+    display: block;
+}
+.small-site-logo {
+    display: none;
+}
 .hero-section {
     background-color: #EEEEEE;
 }
@@ -38,4 +44,12 @@ aside {
         padding-right: 1rem;
     }
     
+}
+@media screen and (min-width: 1100px) {
+    .site-logo {
+        display: none;
+    }
+    .small-site-logo {
+        display: block;
+    }
 }
