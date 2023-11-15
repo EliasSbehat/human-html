@@ -75,14 +75,6 @@ aside {
     }
     
 }
-@media screen and (min-width: 1100px) {
-    .site-logo {
-        display: none;
-    }
-    .small-site-logo {
-        display: block;
-    }
-}
 @media screen and (min-width: 249px) {
     .brand-img {
         width: 21px;
@@ -99,6 +91,14 @@ aside {
     }
     .brand-img {
         width: 41px;
+    }
+}
+@media screen and (min-width: 1100px) {
+    .site-logo {
+        display: none;
+    }
+    .small-site-logo {
+        display: block;
     }
 }
 @media screen and (min-width: 1152px) {
